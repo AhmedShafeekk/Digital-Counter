@@ -1,5 +1,5 @@
 # Digital-Counter
-##Digital Counter that counts from 00:00 to 24:00 and repeats the cycle again
+## Digital Counter that counts from 00:00 to 24:00 and repeats the cycle again
 
 ## Components:
 ### bread board
