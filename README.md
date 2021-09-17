@@ -11,3 +11,5 @@
 ### Voltage regulator
 ### 555 Timer IC
 ### 74160 4-bit decade counter
+
+## live circuit: https://www.youtube.com/watch?v=8yTbGlzAMBQ
